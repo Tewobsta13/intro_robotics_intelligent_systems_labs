@@ -19,9 +19,7 @@ The following screenshot shows the robot's depth camera image and point cloud vi
 
 The following screenshot shows the ROS 2 node and topic communication graph captured using rqt_graph.
 
-![ROS 2 Communication Graph](rqt_graph.png)
-
----
+## ![ROS 2 Communication Graph](rqt_graph.png)
 
 ## Project Overview
 
